@@ -10,11 +10,11 @@
 - [Read more about Hyunbin Jeon](https://peterhyun1234.github.io/ "Read more about Hyunbin Jeon")
 
 ### Interest
-:department_store: Development of large-scale data management system 
-:inbox_tray: Development of API Sever with Node.js + TypeScript
-:flags: Development of Hybrid Application 
-:computer: Operating System 
-:soccer: Play soccer 
+:department_store: Development of large-scale data management system <br>
+:inbox_tray: Development of API Sever with Node.js + TypeScript <br>
+:flags: Development of Hybrid Application <br>
+:computer: Operating System <br>
+:soccer: Play soccer <br>
 
 <div align=center>
 
