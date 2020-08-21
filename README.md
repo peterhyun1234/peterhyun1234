@@ -16,6 +16,6 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://peterhyun1234.github.io/)](https://peterhyun1234.github.io/)
+[![About Me Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://peterhyun1234.github.io/)](https://peterhyun1234.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peterhyun1234@gmail.com)](mailto:peterhyun1234@gmail.com)
 </div>
