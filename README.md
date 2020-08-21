@@ -10,10 +10,11 @@
 - [Read more about Hyunbin Jeon](https://peterhyun1234.github.io/, "Read more about Hyunbin Jeon")
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- Development of large-scale data management system :department_store:
+- Development of API Sever with Node.js + TypeScript :inbox_tray:
+- Development of Hybrid Application :flags:
+- Operating System :computer:
+- Play soccer :soccer:
 
 <div align=center>
 
