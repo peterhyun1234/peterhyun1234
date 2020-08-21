@@ -5,7 +5,7 @@
 </div>
 
 ### Software Engineer 전현빈
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
+- 아주대학교 재학중이고 2021년 2월 졸업 예정인 26세 개발자 전현빈입니다 :smile:
 - I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
 - [Read more about Hyunbin Jeon](https://peterhyun1234.github.io/, "Read more about Hyunbin Jeon")
 
