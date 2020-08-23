@@ -6,7 +6,7 @@
 
 ### Software Engineer 전현빈
 - 아주대학교 재학중이고, 2021년 2월 졸업 예정입니다 :smile:
-- 깔끔하고 최적화된 소프트웨어를 만드는 게 취미입니다(노력중) :sweat_smile:
+- 깔끔하고 안정성있는 소프트웨어를 만드는 게 취미입니다(노력중) :sweat_smile:
 - [Read more about Hyunbin Jeon](https://peterhyun1234.github.io/ "Read more about Hyunbin Jeon")
 
 ### Interest
