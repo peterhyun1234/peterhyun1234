@@ -14,7 +14,7 @@
 :inbox_tray: Development of API Sever with Node.js + TypeScript <br>
 :flags: Development of Web Application <br>
 :computer: Operating System <br>
-:soccer: Play soccer <br>
+:soccer: Playing soccer <br>
 
 <div align=center>
 
