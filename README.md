@@ -12,7 +12,7 @@
 ### Interest
 :department_store: Development of large-scale data management system <br>
 :inbox_tray: Development of API Sever with Node.js + TypeScript <br>
-:flags: Development of Hybrid Application <br>
+:flags: Development of Web Application <br>
 :computer: Operating System <br>
 :soccer: Play soccer <br>
 
