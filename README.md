@@ -4,18 +4,19 @@
 
 </div>
 
-### Software Engineer 전현빈
-- [PortValue](https://portvalue.notion.site/PortValue-1dfd54bcde7f417cb04a460528190c9b)의 CTO입니다 :smile:
-- 깔끔하고 안정성있는 소프트웨어를 만드는 게 취미입니다 :sweat_smile:
+### Software Developer: Hyunbin Jeon
+- Check out my work here: [Portfolio](https://peterjeon.co.kr)
+- Read my thoughts here: [Blog](https://velog.io/@peterhyun1234/series)
+- My passion lies in creating clean and reliable software solutions. :sweat_smile:
 
-### Interest
-:department_store: Development of large-scale data management system <br>
-⤴️ FE Development with reactjs + TypeScript <br>
-:inbox_tray: Development of API Sever with Node.js + TypeScript <br>
-:flags: Development of Web Application and PWA <br>
-🔦 Infrastructure with kubernetes and CI/CD <br>
-:computer: Operating System <br>
-:soccer: Playing soccer <br>
+### Interests
+- :department_store: Architecting and developing **large-scale** data management systems.
+- :chart_with_upwards_trend: Engaging in Front-End development using **React, Next.js** and **TypeScript**.
+- :inbox_tray: Building API servers with Node.js and **TypeScript**.
+- :triangular_flag_on_post: Developing Web applications and **Progressive Web Apps (PWA)**.
+- :bulb: Managing infrastructure using **Kubernetes** and orchestrating **CI/CD** processes.
+- :computer: Exploring all aspects of **Computer Science**.
+- :soccer: Playing soccer in my free time for leisure and fitness.
 
 <div align=center>
   
