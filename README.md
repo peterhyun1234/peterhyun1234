@@ -4,16 +4,16 @@
 
 </div>
 
-### Software Developer: Hyunbin Jeon
+### Software Engineer: Hyunbin Jeon
 - Check out my work here: [Portfolio](https://peterjeon.co.kr)
 - Read my thoughts here: [Blog](https://velog.io/@peterhyun1234/series)
 - My passion lies in creating clean and reliable software solutions. :sweat_smile:
 
 ### Interests
-- :department_store: Architecting and developing **large-scale** data management systems.
-- :chart_with_upwards_trend: Engaging in Front-End development using **React, Next.js** and **TypeScript**.
-- :inbox_tray: Building API servers with Node.js and **TypeScript**.
+- :chart_with_upwards_trend: Engaging in Frontend development using **React, Next.js** and **TypeScript**.
 - :triangular_flag_on_post: Developing Web applications and **Progressive Web Apps (PWA)**.
+- :inbox_tray: Building API servers with **Express.js, Nestjs** and **TypeScript**.
+- :department_store: Architecting and developing **large-scale** data management systems.
 - :bulb: Managing infrastructure using **Kubernetes** and orchestrating **CI/CD** processes.
 - :computer: Exploring all aspects of **Computer Science**.
 - :soccer: Playing soccer in my free time for leisure and fitness.
