@@ -5,7 +5,7 @@
 </div>
 
 ### Software Engineer: Hyunbin Jeon
-- Check out my work here: [Portfolio](https://www.peterjeon.co.kr)
+- Check out my work here: [Portfolio](https://portfolio.peterjeon.co.kr)
 - Read my thoughts here: [Blog](https://velog.io/@peterhyun1234/series)
 - My passion lies in creating clean and reliable software solutions. :sweat_smile:
 
